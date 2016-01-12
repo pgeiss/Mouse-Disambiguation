@@ -1,5 +1,5 @@
 # Mouse-Disambiguation
-HackerRank Real Data Contest 2015 "Mouse vs. Mouse" Problem submission. My model scored ~20 points meaning I was correct 70% of the time, even against challenging inputs. Ranked 147th / 800 or so. 50% of submissions scored at least 1 point (50% correct) which is fairly low.
+HackerRank Real Data Contest 2015 "Mouse vs. Mouse" Problem submission. My model scored ~20 points meaning I was correct 70% of the time, even against challenging inputs. Ranked 147th / 800 or so. 50% of submissions scored at least 1 point (50% correct) which is fairly low. Given that the contest has concluded and all code is publicly available, there should be no issue sharing this here.
 
 # The Challenge:
 Given a sentence containing the word "mouse", determine if it represents a computer mouse or an animal. You must define your own corpus (you may not download one (à la nltk) and your final code must be smaller than 10 kb.
